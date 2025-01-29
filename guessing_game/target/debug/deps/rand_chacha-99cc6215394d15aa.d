@@ -1,0 +1,9 @@
+/home/stefan.braunovic@vega.local/Desktop/RUST/learning-rust/guessing_game/target/debug/deps/librand_chacha-99cc6215394d15aa.rmeta: /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/lib.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/chacha.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/guts.rs
+
+/home/stefan.braunovic@vega.local/Desktop/RUST/learning-rust/guessing_game/target/debug/deps/librand_chacha-99cc6215394d15aa.rlib: /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/lib.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/chacha.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/guts.rs
+
+/home/stefan.braunovic@vega.local/Desktop/RUST/learning-rust/guessing_game/target/debug/deps/rand_chacha-99cc6215394d15aa.d: /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/lib.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/chacha.rs /home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/guts.rs
+
+/home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/lib.rs:
+/home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/chacha.rs:
+/home/stefan.braunovic@vega.local/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_chacha-0.3.1/src/guts.rs:
